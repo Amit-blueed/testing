@@ -6,5 +6,10 @@ public class Config {
 	public static final String DESTINATION_NAME = "table_sync";
 
 	public static final String DB_URL_1 = "jdbc:postgresql://localhost:5432/postgres";
+	public static final String DB_USER_1 = "postgres";
+	public static final String DB_PASSWORD_1 = "postgres";
+
 	public static final String DB_URL_2 = "jdbc:postgresql://localhost:5432/postgres";
+	public static final String DB_USER_2 = "postgres";
+	public static final String DB_PASSWORD_2 = "postgres";
 }
